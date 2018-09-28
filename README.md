@@ -29,6 +29,6 @@ This will use default settings except for k1, which will be 1 instead of 2.
 
 Procsim will output each value it is using in the simulation for verification.
 
-## Results
+## Output
 
 Procsim will output execution statistics after a successful simulation. It will print the total number of instructions executed (either limited by the trace file or the -f option), the average number of instructions fired and retired per cycle, and the total run time in cycles.
