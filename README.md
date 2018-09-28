@@ -9,6 +9,7 @@ Use the provided Makefile to compile procsim properly, then run as the following
     ./procsim [OPTIONS] < [trace file]
 
 OPTIONS can be any number of the following and is also described with the -h help option.
+
     -j number of k0 functional units
     -k number of k1 functional units
     -l number of k2 functional units
